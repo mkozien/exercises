@@ -1,1 +1,1 @@
-# -wiczenia
+# exercises
